@@ -1,0 +1,11 @@
+.shapes {
+    display : flex;
+    flex-wrap : wrap;
+    justify-content : space-evenly;
+    text-align : center;
+}
+
+.group img {
+    border : 10px solid;
+    border-color : black;
+}
